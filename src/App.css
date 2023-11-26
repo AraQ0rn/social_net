@@ -1,0 +1,19 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+.wrapper {
+        max-width: 1220px;
+        margin: 0 auto;
+}
+
+.div {
+        display: flex;
+}
+
+.menu {
+        background: #abb9fb;
+        width: 100%;
+}

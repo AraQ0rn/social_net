@@ -1,0 +1,12 @@
+.div {
+        display: flex;
+}
+
+.div_div {
+        padding: 15px;
+        background: #8c9db9;
+}
+
+.div__div {
+        margin-left: 100px;
+}
